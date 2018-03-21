@@ -1,0 +1,5 @@
+Style:
+Class/Struct names are CamelCase
+Everything else is snake_case
+Private class/struct variables prefixed with 'm_'
+TODO: Setup a code cleaner to enforce this
